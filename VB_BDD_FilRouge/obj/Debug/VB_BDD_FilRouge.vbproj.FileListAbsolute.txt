@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\bin\Debug\VB_BDD_FilRouge.exe.config
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\bin\Debug\VB_BDD_FilRouge.exe
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\bin\Debug\VB_BDD_FilRouge.pdb
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\bin\Debug\VB_BDD_FilRouge.xml
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.Accueuil.resources
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.Client.resources
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.Fenetre_Principale.resources
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.Resources.resources
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.exe
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.xml
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.pdb
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.Administration.resources
+C:\Users\User\Desktop\filRouge_Momo\VB_BDD_FilRouge\VB_BDD_FilRouge\obj\Debug\VB_BDD_FilRouge.Collaborateur.resources
