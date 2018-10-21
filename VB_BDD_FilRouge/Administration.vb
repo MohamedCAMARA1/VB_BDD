@@ -36,7 +36,7 @@ Public Class Administration
         Dim Mdp_Utilisateur As SqlParameter = Requete_Ajout_Utilisateur.Parameters.Add("@motDePasse", SqlDbType.VarChar)
         Dim profil_Utilisateur As SqlParameter = Requete_Ajout_Utilisateur.Parameters.Add("@Profile_Utilisateur", SqlDbType.Int)
 
-        Login_Utilisateur.Value = txt_Ajout_Nom.Text + "." + txt_Ajout_Prenom.Text
+        Login_Utilisateur.Value = txt_Ajout_Nom.Text.ToUpper() + "." + txt_Ajout_Prenom.Text
         Mdp_Utilisateur.Value = txt_Ajout_Mot_De_Passe.Text
         profil_Utilisateur.Value = choix_Statut
 
@@ -55,7 +55,7 @@ Public Class Administration
         End Try
 
 
-        MsgBox("L'utilisateur à été ajouté")
+        'MsgBox("L'utilisateur à été ajouté")
         Me.Close()
         Accueuil.Show()
     End Sub

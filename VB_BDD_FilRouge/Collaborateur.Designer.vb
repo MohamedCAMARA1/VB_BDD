@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Collaborateur
     Inherits System.Windows.Forms.Form
 
     'Form remplace la méthode Dispose pour nettoyer la liste des composants.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Collaborateur
     'REMARQUE : la procédure suivante est requise par le Concepteur Windows Form
     'Elle peut être modifiée à l'aide du Concepteur Windows Form.  
     'Ne la modifiez pas à l'aide de l'éditeur de code.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.btn_retour = New System.Windows.Forms.Button()
         Me.cb_Affichage_Collaborateurs = New System.Windows.Forms.ComboBox()
@@ -39,6 +39,10 @@ Partial Class Collaborateur
         Me.txt_Adresse_Complement = New System.Windows.Forms.TextBox()
         Me.txt_Code_Postal = New System.Windows.Forms.TextBox()
         Me.lbl_Code_Postal = New System.Windows.Forms.Label()
+        Me.lbl_Affichage_Salaire = New System.Windows.Forms.Label()
+        Me.txt_Salaire = New System.Windows.Forms.TextBox()
+        Me.btn_Modifier = New System.Windows.Forms.Button()
+        Me.btn_Valider = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btn_retour
@@ -125,6 +129,7 @@ Partial Class Collaborateur
         Me.txt_Prenom.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Prenom.Location = New System.Drawing.Point(15, 124)
         Me.txt_Prenom.Name = "txt_Prenom"
+        Me.txt_Prenom.ReadOnly = True
         Me.txt_Prenom.Size = New System.Drawing.Size(192, 20)
         Me.txt_Prenom.TabIndex = 4
         '
@@ -133,6 +138,7 @@ Partial Class Collaborateur
         Me.txt_Nom.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Nom.Location = New System.Drawing.Point(352, 124)
         Me.txt_Nom.Name = "txt_Nom"
+        Me.txt_Nom.ReadOnly = True
         Me.txt_Nom.Size = New System.Drawing.Size(192, 20)
         Me.txt_Nom.TabIndex = 4
         '
@@ -141,6 +147,7 @@ Partial Class Collaborateur
         Me.txt_Adresse1.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Adresse1.Location = New System.Drawing.Point(15, 201)
         Me.txt_Adresse1.Name = "txt_Adresse1"
+        Me.txt_Adresse1.ReadOnly = True
         Me.txt_Adresse1.Size = New System.Drawing.Size(634, 20)
         Me.txt_Adresse1.TabIndex = 4
         '
@@ -149,6 +156,7 @@ Partial Class Collaborateur
         Me.txt_Telephone.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Telephone.Location = New System.Drawing.Point(352, 298)
         Me.txt_Telephone.Name = "txt_Telephone"
+        Me.txt_Telephone.ReadOnly = True
         Me.txt_Telephone.Size = New System.Drawing.Size(192, 20)
         Me.txt_Telephone.TabIndex = 4
         '
@@ -157,6 +165,7 @@ Partial Class Collaborateur
         Me.txt_Debut_Contrat.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Debut_Contrat.Location = New System.Drawing.Point(9, 368)
         Me.txt_Debut_Contrat.Name = "txt_Debut_Contrat"
+        Me.txt_Debut_Contrat.ReadOnly = True
         Me.txt_Debut_Contrat.Size = New System.Drawing.Size(192, 20)
         Me.txt_Debut_Contrat.TabIndex = 4
         '
@@ -165,6 +174,7 @@ Partial Class Collaborateur
         Me.txt_Fin_Contrat.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Fin_Contrat.Location = New System.Drawing.Point(352, 368)
         Me.txt_Fin_Contrat.Name = "txt_Fin_Contrat"
+        Me.txt_Fin_Contrat.ReadOnly = True
         Me.txt_Fin_Contrat.Size = New System.Drawing.Size(192, 20)
         Me.txt_Fin_Contrat.TabIndex = 4
         '
@@ -173,6 +183,7 @@ Partial Class Collaborateur
         Me.txt_Adresse_Complement.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Adresse_Complement.Location = New System.Drawing.Point(15, 227)
         Me.txt_Adresse_Complement.Name = "txt_Adresse_Complement"
+        Me.txt_Adresse_Complement.ReadOnly = True
         Me.txt_Adresse_Complement.Size = New System.Drawing.Size(634, 20)
         Me.txt_Adresse_Complement.TabIndex = 4
         '
@@ -181,6 +192,7 @@ Partial Class Collaborateur
         Me.txt_Code_Postal.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.txt_Code_Postal.Location = New System.Drawing.Point(15, 298)
         Me.txt_Code_Postal.Name = "txt_Code_Postal"
+        Me.txt_Code_Postal.ReadOnly = True
         Me.txt_Code_Postal.Size = New System.Drawing.Size(192, 20)
         Me.txt_Code_Postal.TabIndex = 4
         '
@@ -194,15 +206,61 @@ Partial Class Collaborateur
         Me.lbl_Code_Postal.TabIndex = 3
         Me.lbl_Code_Postal.Text = "CODE POSTAL"
         '
+        'lbl_Affichage_Salaire
+        '
+        Me.lbl_Affichage_Salaire.AutoSize = True
+        Me.lbl_Affichage_Salaire.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl_Affichage_Salaire.Location = New System.Drawing.Point(593, 277)
+        Me.lbl_Affichage_Salaire.Name = "lbl_Affichage_Salaire"
+        Me.lbl_Affichage_Salaire.Size = New System.Drawing.Size(85, 18)
+        Me.lbl_Affichage_Salaire.TabIndex = 3
+        Me.lbl_Affichage_Salaire.Text = "SALAIRE"
+        '
+        'txt_Salaire
+        '
+        Me.txt_Salaire.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.txt_Salaire.Location = New System.Drawing.Point(596, 298)
+        Me.txt_Salaire.Name = "txt_Salaire"
+        Me.txt_Salaire.ReadOnly = True
+        Me.txt_Salaire.Size = New System.Drawing.Size(192, 20)
+        Me.txt_Salaire.TabIndex = 4
+        '
+        'btn_Modifier
+        '
+        Me.btn_Modifier.BackColor = System.Drawing.Color.Red
+        Me.btn_Modifier.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_Modifier.ForeColor = System.Drawing.Color.Black
+        Me.btn_Modifier.Location = New System.Drawing.Point(684, 23)
+        Me.btn_Modifier.Name = "btn_Modifier"
+        Me.btn_Modifier.Size = New System.Drawing.Size(104, 31)
+        Me.btn_Modifier.TabIndex = 5
+        Me.btn_Modifier.Text = "Modifier"
+        Me.btn_Modifier.UseVisualStyleBackColor = False
+        '
+        'btn_Valider
+        '
+        Me.btn_Valider.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.btn_Valider.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_Valider.Location = New System.Drawing.Point(684, 24)
+        Me.btn_Valider.Name = "btn_Valider"
+        Me.btn_Valider.Size = New System.Drawing.Size(103, 29)
+        Me.btn_Valider.TabIndex = 6
+        Me.btn_Valider.Text = "Valider"
+        Me.btn_Valider.UseVisualStyleBackColor = False
+        Me.btn_Valider.Visible = False
+        '
         'Collaborateur
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.btn_Valider)
+        Me.Controls.Add(Me.btn_Modifier)
         Me.Controls.Add(Me.txt_Fin_Contrat)
         Me.Controls.Add(Me.txt_Debut_Contrat)
         Me.Controls.Add(Me.txt_Code_Postal)
+        Me.Controls.Add(Me.txt_Salaire)
         Me.Controls.Add(Me.txt_Telephone)
         Me.Controls.Add(Me.txt_Adresse_Complement)
         Me.Controls.Add(Me.txt_Adresse1)
@@ -214,6 +272,7 @@ Partial Class Collaborateur
         Me.Controls.Add(Me.lbl_Contrat_Collaborateur)
         Me.Controls.Add(Me.lbl_Adresse)
         Me.Controls.Add(Me.lbl_Prenom_Collaborateur)
+        Me.Controls.Add(Me.lbl_Affichage_Salaire)
         Me.Controls.Add(Me.lbl_Nom_Collaborateur)
         Me.Controls.Add(Me.cb_Affichage_Collaborateurs)
         Me.Controls.Add(Me.btn_retour)
@@ -240,4 +299,8 @@ Partial Class Collaborateur
     Friend WithEvents txt_Adresse_Complement As TextBox
     Friend WithEvents txt_Code_Postal As TextBox
     Friend WithEvents lbl_Code_Postal As Label
+    Friend WithEvents lbl_Affichage_Salaire As Label
+    Friend WithEvents txt_Salaire As TextBox
+    Friend WithEvents btn_Modifier As Button
+    Friend WithEvents btn_Valider As Button
 End Class

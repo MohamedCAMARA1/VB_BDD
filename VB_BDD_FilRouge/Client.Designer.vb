@@ -40,9 +40,26 @@ Partial Class Client
         Me.btn_DataGrid = New System.Windows.Forms.Button()
         Me.btn_Cacher_Client = New System.Windows.Forms.Button()
         Me.btn_Retour = New System.Windows.Forms.Button()
+        Me.DG_Client_Home = New System.Windows.Forms.DataGridView()
+        Me.IDCLIENTDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.IDADRESSEDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.IDNATUREDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.RAISONSOCIALEDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.TYPECLIENTDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.EFFECTIFCLIENTDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.NOMCONTACTCLIENTDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.CLIENTBindingSource1 = New System.Windows.Forms.BindingSource(Me.components)
+        Me.Active_Final_CommunDataSet2 = New VB_BDD_FilRouge.Active_Final_CommunDataSet2()
+        Me.CLIENTTableAdapter1 = New VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.CLIENTTableAdapter()
         CType(Me.DG_view_Client, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.CLIENTBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Active_Final_CommunDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.DG_Client_Home, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.CLIENTBindingSource1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.Active_Final_CommunDataSet2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'DG_view_Client
@@ -53,7 +70,7 @@ Partial Class Client
         Me.DG_view_Client.DataSource = Me.CLIENTBindingSource
         Me.DG_view_Client.Location = New System.Drawing.Point(12, 12)
         Me.DG_view_Client.Name = "DG_view_Client"
-        Me.DG_view_Client.Size = New System.Drawing.Size(1106, 242)
+        Me.DG_view_Client.Size = New System.Drawing.Size(1074, 144)
         Me.DG_view_Client.TabIndex = 0
         Me.DG_view_Client.Visible = False
         '
@@ -165,12 +182,100 @@ Partial Class Client
         Me.btn_Retour.Text = "Accueil"
         Me.btn_Retour.UseVisualStyleBackColor = False
         '
+        'DG_Client_Home
+        '
+        Me.DG_Client_Home.AutoGenerateColumns = False
+        Me.DG_Client_Home.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DG_Client_Home.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.IDCLIENTDataGridViewTextBoxColumn1, Me.IDADRESSEDataGridViewTextBoxColumn1, Me.IDNATUREDataGridViewTextBoxColumn1, Me.RAISONSOCIALEDataGridViewTextBoxColumn1, Me.TYPECLIENTDataGridViewTextBoxColumn1, Me.EFFECTIFCLIENTDataGridViewTextBoxColumn1, Me.CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1, Me.NOMCONTACTCLIENTDataGridViewTextBoxColumn1, Me.PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1, Me.FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1})
+        Me.DG_Client_Home.DataSource = Me.CLIENTBindingSource1
+        Me.DG_Client_Home.Location = New System.Drawing.Point(12, 12)
+        Me.DG_Client_Home.Name = "DG_Client_Home"
+        Me.DG_Client_Home.Size = New System.Drawing.Size(1074, 144)
+        Me.DG_Client_Home.TabIndex = 4
+        Me.DG_Client_Home.Visible = False
+        '
+        'IDCLIENTDataGridViewTextBoxColumn1
+        '
+        Me.IDCLIENTDataGridViewTextBoxColumn1.DataPropertyName = "ID_CLIENT"
+        Me.IDCLIENTDataGridViewTextBoxColumn1.HeaderText = "ID_CLIENT"
+        Me.IDCLIENTDataGridViewTextBoxColumn1.Name = "IDCLIENTDataGridViewTextBoxColumn1"
+        Me.IDCLIENTDataGridViewTextBoxColumn1.ReadOnly = True
+        '
+        'IDADRESSEDataGridViewTextBoxColumn1
+        '
+        Me.IDADRESSEDataGridViewTextBoxColumn1.DataPropertyName = "ID_ADRESSE"
+        Me.IDADRESSEDataGridViewTextBoxColumn1.HeaderText = "ID_ADRESSE"
+        Me.IDADRESSEDataGridViewTextBoxColumn1.Name = "IDADRESSEDataGridViewTextBoxColumn1"
+        '
+        'IDNATUREDataGridViewTextBoxColumn1
+        '
+        Me.IDNATUREDataGridViewTextBoxColumn1.DataPropertyName = "ID_NATURE"
+        Me.IDNATUREDataGridViewTextBoxColumn1.HeaderText = "ID_NATURE"
+        Me.IDNATUREDataGridViewTextBoxColumn1.Name = "IDNATUREDataGridViewTextBoxColumn1"
+        '
+        'RAISONSOCIALEDataGridViewTextBoxColumn1
+        '
+        Me.RAISONSOCIALEDataGridViewTextBoxColumn1.DataPropertyName = "RAISON_SOCIALE"
+        Me.RAISONSOCIALEDataGridViewTextBoxColumn1.HeaderText = "RAISON_SOCIALE"
+        Me.RAISONSOCIALEDataGridViewTextBoxColumn1.Name = "RAISONSOCIALEDataGridViewTextBoxColumn1"
+        '
+        'TYPECLIENTDataGridViewTextBoxColumn1
+        '
+        Me.TYPECLIENTDataGridViewTextBoxColumn1.DataPropertyName = "TYPE_CLIENT"
+        Me.TYPECLIENTDataGridViewTextBoxColumn1.HeaderText = "TYPE_CLIENT"
+        Me.TYPECLIENTDataGridViewTextBoxColumn1.Name = "TYPECLIENTDataGridViewTextBoxColumn1"
+        '
+        'EFFECTIFCLIENTDataGridViewTextBoxColumn1
+        '
+        Me.EFFECTIFCLIENTDataGridViewTextBoxColumn1.DataPropertyName = "EFFECTIF_CLIENT"
+        Me.EFFECTIFCLIENTDataGridViewTextBoxColumn1.HeaderText = "EFFECTIF_CLIENT"
+        Me.EFFECTIFCLIENTDataGridViewTextBoxColumn1.Name = "EFFECTIFCLIENTDataGridViewTextBoxColumn1"
+        '
+        'CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1
+        '
+        Me.CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1.DataPropertyName = "CHIFFRE_D_AFFAIRES_KEUROS"
+        Me.CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1.HeaderText = "CHIFFRE_D_AFFAIRES_KEUROS"
+        Me.CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1.Name = "CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1"
+        '
+        'NOMCONTACTCLIENTDataGridViewTextBoxColumn1
+        '
+        Me.NOMCONTACTCLIENTDataGridViewTextBoxColumn1.DataPropertyName = "NOM_CONTACT_CLIENT"
+        Me.NOMCONTACTCLIENTDataGridViewTextBoxColumn1.HeaderText = "NOM_CONTACT_CLIENT"
+        Me.NOMCONTACTCLIENTDataGridViewTextBoxColumn1.Name = "NOMCONTACTCLIENTDataGridViewTextBoxColumn1"
+        '
+        'PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1
+        '
+        Me.PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1.DataPropertyName = "PRENOM_CONTACT_CLIENT"
+        Me.PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1.HeaderText = "PRENOM_CONTACT_CLIENT"
+        Me.PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1.Name = "PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1"
+        '
+        'FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1
+        '
+        Me.FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1.DataPropertyName = "FONCTION_CONTACT_CLIENT"
+        Me.FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1.HeaderText = "FONCTION_CONTACT_CLIENT"
+        Me.FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1.Name = "FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1"
+        '
+        'CLIENTBindingSource1
+        '
+        Me.CLIENTBindingSource1.DataMember = "CLIENT"
+        Me.CLIENTBindingSource1.DataSource = Me.Active_Final_CommunDataSet2
+        '
+        'Active_Final_CommunDataSet2
+        '
+        Me.Active_Final_CommunDataSet2.DataSetName = "Active_Final_CommunDataSet2"
+        Me.Active_Final_CommunDataSet2.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
+        'CLIENTTableAdapter1
+        '
+        Me.CLIENTTableAdapter1.ClearBeforeFill = True
+        '
         'Client
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1130, 458)
+        Me.Controls.Add(Me.DG_Client_Home)
         Me.Controls.Add(Me.btn_Retour)
         Me.Controls.Add(Me.btn_Cacher_Client)
         Me.Controls.Add(Me.btn_DataGrid)
@@ -180,6 +285,9 @@ Partial Class Client
         CType(Me.DG_view_Client, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.CLIENTBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Active_Final_CommunDataSet, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DG_Client_Home, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.CLIENTBindingSource1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.Active_Final_CommunDataSet2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -201,4 +309,18 @@ Partial Class Client
     Friend WithEvents btn_DataGrid As Button
     Friend WithEvents btn_Cacher_Client As Button
     Friend WithEvents btn_Retour As Button
+    Friend WithEvents DG_Client_Home As DataGridView
+    Friend WithEvents Active_Final_CommunDataSet2 As Active_Final_CommunDataSet2
+    Friend WithEvents CLIENTBindingSource1 As BindingSource
+    Friend WithEvents CLIENTTableAdapter1 As Active_Final_CommunDataSet2TableAdapters.CLIENTTableAdapter
+    Friend WithEvents IDCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents IDADRESSEDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents IDNATUREDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents RAISONSOCIALEDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents TYPECLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents EFFECTIFCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents CHIFFREDAFFAIRESKEUROSDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents NOMCONTACTCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
 End Class

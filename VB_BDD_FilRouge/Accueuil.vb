@@ -43,4 +43,9 @@
         Me.Close()
         Collaborateur.Show()
     End Sub
+
+    Private Sub btn_Projet_Click(sender As Object, e As EventArgs) Handles btn_Projet.Click
+        Me.Close()
+        Projets.Show()
+    End Sub
 End Class

@@ -64,6 +64,27 @@ Namespace My
                 Return CType(Me("Active_Final_CommunConnectionString"),String)
             End Get
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-76GODKO;Integrated Security=True")>  _
+        Public ReadOnly Property ConnectionString_Home() As String
+            Get
+                Return CType(Me("ConnectionString_Home"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-76GODKO;Initial Catalog=Active_Final_Commun;Integrated Securi"& _ 
+            "ty=True")>  _
+        Public ReadOnly Property Active_Final_CommunConnectionString1() As String
+            Get
+                Return CType(Me("Active_Final_CommunConnectionString1"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 

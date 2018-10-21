@@ -7,6 +7,12 @@ Public Class Fenetre_Principale
 
     Private Sub btn_Valider_Click(sender As Object, e As EventArgs) Handles btn_Valider.Click
 
+        If Radio_AFPA.Checked() Then
+            str_Connexion = str_Connexion_AFPA
+        End If
+        If Radio_Home.Checked Then
+            str_Connexion = str_Connexion_Home
+        End If
 
         Dim ConnexionBDD As New SqlConnection(str_Connexion)
         Dim Requete_ConnexionUtilisateur As New SqlCommand()

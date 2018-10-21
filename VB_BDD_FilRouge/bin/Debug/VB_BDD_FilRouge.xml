@@ -712,5 +712,2095 @@ Update Order Option
 Used to sort self-referenced table's rows
 </summary>
 </member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_CHAMPSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_DOMAINEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_SECTEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ADRESSEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CLIENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.COLLABORATEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.COMMENTAIRE_COMMERCIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CONCERNEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CYCLE_DE_VIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.DOCUMENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.DOMAINE_D_ACTIVITEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ECRITDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Etape_nomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ETAPE_ProjetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FONCTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.INTERVENTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.MAITRISEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.NATUREDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PROFILEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PROJETDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.SALAIREDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.SECTEUR_ACTIVITEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.STATUTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.TECHNOLOGIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.TYPE_TECHNOLOGIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.UTILISATEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PS_Liste_Techno_pour_ProjetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PS_Projet_D_Un_ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Techno_Pour_Un_ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Techno_Pour_Un_CollaboDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FT_Liste_Adresse_CollaborateurDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FT_Mon_AdresseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_CHAMPSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_DOMAINERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_SECTEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ADRESSERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CLIENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.COLLABORATEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.COMMENTAIRE_COMMERCIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CONCERNERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CYCLE_DE_VIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.DOCUMENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.DOMAINE_D_ACTIVITERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ECRITRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Etape_nomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ETAPE_ProjetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FONCTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.INTERVENTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.MAITRISERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.NATURERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PROFILERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PROJETRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.SALAIRERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.SECTEUR_ACTIVITERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.STATUTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.TECHNOLOGIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.TYPE_TECHNOLOGIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.UTILISATEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PS_Liste_Techno_pour_ProjetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PS_Projet_D_Un_ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Techno_Pour_Un_ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Techno_Pour_Un_CollaboRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FT_Liste_Adresse_CollaborateurRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FT_Mon_AdresseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_CHAMPSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_DOMAINERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.A_POUR_SECTEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ADRESSERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CLIENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.COLLABORATEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.COMMENTAIRE_COMMERCIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CONCERNERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.CYCLE_DE_VIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.DOCUMENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.DOMAINE_D_ACTIVITERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ECRITRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Etape_nomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.ETAPE_ProjetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FONCTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.INTERVENTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.MAITRISERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.NATURERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PROFILERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PROJETRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.SALAIRERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.SECTEUR_ACTIVITERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.STATUTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.TECHNOLOGIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.TYPE_TECHNOLOGIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.UTILISATEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PS_Liste_Techno_pour_ProjetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.PS_Projet_D_Un_ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Techno_Pour_Un_ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.Techno_Pour_Un_CollaboRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FT_Liste_Adresse_CollaborateurRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1.FT_Mon_AdresseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.A_POUR_CHAMPSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.A_POUR_DOMAINETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.A_POUR_SECTEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.ADRESSETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.CLIENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.COLLABORATEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.COMMENTAIRE_COMMERCIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.CONCERNETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.CYCLE_DE_VIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.DOCUMENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.DOMAINE_D_ACTIVITETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.ECRITTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.Etape_nomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.ETAPE_ProjetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.FONCTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.INTERVENTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.MAITRISETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.NATURETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.PROFILETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.PROJETTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.SALAIRETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.SECTEUR_ACTIVITETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.STATUTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TECHNOLOGIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TYPE_TECHNOLOGIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.UTILISATEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.PS_Liste_Techno_pour_ProjetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.PS_Projet_D_Un_ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.Techno_Pour_Un_ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.Techno_Pour_Un_CollaboTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.FT_Liste_Adresse_CollaborateurTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.FT_Mon_AdresseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(VB_BDD_FilRouge.Active_Final_CommunDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(VB_BDD_FilRouge.Active_Final_CommunDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(VB_BDD_FilRouge.Active_Final_CommunDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager.UpdateAll(VB_BDD_FilRouge.Active_Final_CommunDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_CHAMPSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_DOMAINEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_SECTEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ADRESSEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CLIENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.COLLABORATEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.COMMENTAIRE_COMMERCIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CONCERNEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CYCLE_DE_VIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.DOCUMENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.DOMAINE_D_ACTIVITEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ECRITDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Etape_nomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ETAPE_ProjetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FONCTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.INTERVENTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.MAITRISEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.NATUREDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PROFILEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PROJETDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.SALAIREDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.SECTEUR_ACTIVITEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.STATUTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.TECHNOLOGIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.TYPE_TECHNOLOGIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.UTILISATEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Ps_Liste_CollaborateurDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PS_Liste_Techno_pour_ProjetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PS_Projet_D_Un_ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Techno_Pour_Un_ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Techno_Pour_Un_CollaboDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FT_Liste_Adresse_CollaborateurDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FT_Mon_AdresseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_CHAMPSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_DOMAINERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_SECTEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ADRESSERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CLIENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.COLLABORATEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.COMMENTAIRE_COMMERCIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CONCERNERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CYCLE_DE_VIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.DOCUMENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.DOMAINE_D_ACTIVITERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ECRITRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Etape_nomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ETAPE_ProjetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FONCTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.INTERVENTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.MAITRISERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.NATURERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PROFILERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PROJETRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.SALAIRERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.SECTEUR_ACTIVITERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.STATUTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.TECHNOLOGIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.TYPE_TECHNOLOGIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.UTILISATEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Ps_Liste_CollaborateurRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PS_Liste_Techno_pour_ProjetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PS_Projet_D_Un_ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Techno_Pour_Un_ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Techno_Pour_Un_CollaboRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FT_Liste_Adresse_CollaborateurRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FT_Mon_AdresseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_CHAMPSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_DOMAINERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.A_POUR_SECTEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ADRESSERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CLIENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.COLLABORATEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.COMMENTAIRE_COMMERCIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CONCERNERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.CYCLE_DE_VIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.DOCUMENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.DOMAINE_D_ACTIVITERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ECRITRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Etape_nomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.ETAPE_ProjetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FONCTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.INTERVENTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.MAITRISERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.NATURERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PROFILERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PROJETRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.SALAIRERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.SECTEUR_ACTIVITERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.STATUTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.TECHNOLOGIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.TYPE_TECHNOLOGIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.UTILISATEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Ps_Liste_CollaborateurRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PS_Liste_Techno_pour_ProjetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.PS_Projet_D_Un_ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Techno_Pour_Un_ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.Techno_Pour_Un_CollaboRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FT_Liste_Adresse_CollaborateurRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2.FT_Mon_AdresseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.A_POUR_CHAMPSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.A_POUR_DOMAINETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.A_POUR_SECTEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.ADRESSETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.CLIENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.COLLABORATEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.COMMENTAIRE_COMMERCIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.CONCERNETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.CYCLE_DE_VIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.DOCUMENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.DOMAINE_D_ACTIVITETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.ECRITTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.Etape_nomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.ETAPE_ProjetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.FONCTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.INTERVENTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.MAITRISETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.NATURETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.PROFILETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.PROJETTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.SALAIRETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.SECTEUR_ACTIVITETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.STATUTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TECHNOLOGIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TYPE_TECHNOLOGIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.UTILISATEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.Ps_Liste_CollaborateurTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.PS_Liste_Techno_pour_ProjetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.PS_Projet_D_Un_ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.Techno_Pour_Un_ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.Techno_Pour_Un_CollaboTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.FT_Liste_Adresse_CollaborateurTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.FT_Mon_AdresseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(VB_BDD_FilRouge.Active_Final_CommunDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(VB_BDD_FilRouge.Active_Final_CommunDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(VB_BDD_FilRouge.Active_Final_CommunDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager.UpdateAll(VB_BDD_FilRouge.Active_Final_CommunDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_CHAMPSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_DOMAINEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_SECTEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ADRESSEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CLIENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.COLLABORATEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.COMMENTAIRE_COMMERCIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CONCERNEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CYCLE_DE_VIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.DOCUMENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.DOMAINE_D_ACTIVITEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ECRITDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Etape_nomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ETAPE_ProjetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FONCTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.INTERVENTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.MAITRISEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.NATUREDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PROFILEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PROJETDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.SALAIREDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.SECTEUR_ACTIVITEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.STATUTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.TECHNOLOGIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.TYPE_TECHNOLOGIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.UTILISATEURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PS_Liste_Techno_pour_ProjetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PS_Projet_D_Un_ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Techno_Pour_Un_ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Techno_Pour_Un_CollaboDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FT_Liste_Adresse_CollaborateurDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FT_Mon_AdresseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_CHAMPSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_DOMAINERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_SECTEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ADRESSERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CLIENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.COLLABORATEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.COMMENTAIRE_COMMERCIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CONCERNERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CYCLE_DE_VIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.DOCUMENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.DOMAINE_D_ACTIVITERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ECRITRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Etape_nomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ETAPE_ProjetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FONCTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.INTERVENTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.MAITRISERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.NATURERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PROFILERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PROJETRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.SALAIRERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.SECTEUR_ACTIVITERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.STATUTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.TECHNOLOGIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.TYPE_TECHNOLOGIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.UTILISATEURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PS_Liste_Techno_pour_ProjetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PS_Projet_D_Un_ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Techno_Pour_Un_ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Techno_Pour_Un_CollaboRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FT_Liste_Adresse_CollaborateurRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FT_Mon_AdresseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_CHAMPSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_DOMAINERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.A_POUR_SECTEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ADRESSERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CLIENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.COLLABORATEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.COMMENTAIRE_COMMERCIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CONCERNERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.CYCLE_DE_VIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.DOCUMENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.DOMAINE_D_ACTIVITERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ECRITRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Etape_nomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.ETAPE_ProjetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FONCTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.INTERVENTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.MAITRISERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.NATURERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PROFILERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PROJETRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.SALAIRERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.SECTEUR_ACTIVITERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.STATUTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.TECHNOLOGIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.TYPE_TECHNOLOGIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.UTILISATEURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PS_Liste_Techno_pour_ProjetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.PS_Projet_D_Un_ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Techno_Pour_Un_ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.Techno_Pour_Un_CollaboRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FT_Liste_Adresse_CollaborateurRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1.FT_Mon_AdresseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.A_POUR_CHAMPSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.A_POUR_DOMAINETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.A_POUR_SECTEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.ADRESSETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.CLIENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.COLLABORATEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.COMMENTAIRE_COMMERCIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.CONCERNETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.CYCLE_DE_VIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.DOCUMENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.DOMAINE_D_ACTIVITETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.ECRITTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.Etape_nomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.ETAPE_ProjetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.FONCTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.INTERVENTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.MAITRISETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.NATURETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.PROFILETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.PROJETTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.SALAIRETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.SECTEUR_ACTIVITETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.STATUTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.TECHNOLOGIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.TYPE_TECHNOLOGIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.UTILISATEURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.PS_Liste_Techno_pour_ProjetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.PS_Projet_D_Un_ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.Techno_Pour_Un_ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.Techno_Pour_Un_CollaboTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.FT_Liste_Adresse_CollaborateurTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.FT_Mon_AdresseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(VB_BDD_FilRouge.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(VB_BDD_FilRouge.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(VB_BDD_FilRouge.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager.UpdateAll(VB_BDD_FilRouge.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:VB_BDD_FilRouge.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
 </members>
 </doc>

@@ -27,6 +27,8 @@ Partial Class Fenetre_Principale
         Me.txt_Login = New System.Windows.Forms.TextBox()
         Me.txt_Mot_De_Passe = New System.Windows.Forms.TextBox()
         Me.btn_Valider = New System.Windows.Forms.Button()
+        Me.Radio_Home = New System.Windows.Forms.RadioButton()
+        Me.Radio_AFPA = New System.Windows.Forms.RadioButton()
         Me.SuspendLayout()
         '
         'lbl_Login
@@ -83,12 +85,40 @@ Partial Class Fenetre_Principale
         Me.btn_Valider.Text = "Connexion"
         Me.btn_Valider.UseVisualStyleBackColor = False
         '
+        'Radio_Home
+        '
+        Me.Radio_Home.AutoSize = True
+        Me.Radio_Home.Checked = True
+        Me.Radio_Home.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Radio_Home.ForeColor = System.Drawing.Color.Black
+        Me.Radio_Home.Location = New System.Drawing.Point(11, 416)
+        Me.Radio_Home.Name = "Radio_Home"
+        Me.Radio_Home.Size = New System.Drawing.Size(78, 22)
+        Me.Radio_Home.TabIndex = 3
+        Me.Radio_Home.TabStop = True
+        Me.Radio_Home.Text = "HOME"
+        Me.Radio_Home.UseVisualStyleBackColor = True
+        '
+        'Radio_AFPA
+        '
+        Me.Radio_AFPA.AutoSize = True
+        Me.Radio_AFPA.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Radio_AFPA.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.Radio_AFPA.Location = New System.Drawing.Point(153, 416)
+        Me.Radio_AFPA.Name = "Radio_AFPA"
+        Me.Radio_AFPA.Size = New System.Drawing.Size(72, 22)
+        Me.Radio_AFPA.TabIndex = 3
+        Me.Radio_AFPA.Text = "AFPA"
+        Me.Radio_AFPA.UseVisualStyleBackColor = True
+        '
         'Fenetre_Principale
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Gray
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Radio_AFPA)
+        Me.Controls.Add(Me.Radio_Home)
         Me.Controls.Add(Me.btn_Valider)
         Me.Controls.Add(Me.txt_Mot_De_Passe)
         Me.Controls.Add(Me.txt_Login)
@@ -107,4 +137,6 @@ Partial Class Fenetre_Principale
     Friend WithEvents txt_Login As TextBox
     Friend WithEvents txt_Mot_De_Passe As TextBox
     Friend WithEvents btn_Valider As Button
+    Friend WithEvents Radio_Home As RadioButton
+    Friend WithEvents Radio_AFPA As RadioButton
 End Class
