@@ -380,7 +380,7 @@ Public Class Collaborateur
             ConnexionBDD.Close()
 
         Catch ex As Exception
-            MsgBox("exception Salaire ==> 2er TRY " + ex.Message)
+            MsgBox("exception Salaire ==> dans 2er TRY " + ex.Message)
         End Try
 
 
