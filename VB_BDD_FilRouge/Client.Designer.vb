@@ -54,6 +54,7 @@ Partial Class Client
         Me.CLIENTBindingSource1 = New System.Windows.Forms.BindingSource(Me.components)
         Me.Active_Final_CommunDataSet2 = New VB_BDD_FilRouge.Active_Final_CommunDataSet2()
         Me.CLIENTTableAdapter1 = New VB_BDD_FilRouge.Active_Final_CommunDataSet2TableAdapters.CLIENTTableAdapter()
+        Me.btn_Retour_Accueil = New System.Windows.Forms.Button()
         CType(Me.DG_view_Client, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.CLIENTBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Active_Final_CommunDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -70,7 +71,7 @@ Partial Class Client
         Me.DG_view_Client.DataSource = Me.CLIENTBindingSource
         Me.DG_view_Client.Location = New System.Drawing.Point(12, 12)
         Me.DG_view_Client.Name = "DG_view_Client"
-        Me.DG_view_Client.Size = New System.Drawing.Size(1074, 144)
+        Me.DG_view_Client.Size = New System.Drawing.Size(879, 361)
         Me.DG_view_Client.TabIndex = 0
         Me.DG_view_Client.Visible = False
         '
@@ -80,18 +81,21 @@ Partial Class Client
         Me.IDCLIENTDataGridViewTextBoxColumn.HeaderText = "ID_CLIENT"
         Me.IDCLIENTDataGridViewTextBoxColumn.Name = "IDCLIENTDataGridViewTextBoxColumn"
         Me.IDCLIENTDataGridViewTextBoxColumn.ReadOnly = True
+        Me.IDCLIENTDataGridViewTextBoxColumn.Visible = False
         '
         'IDADRESSEDataGridViewTextBoxColumn
         '
         Me.IDADRESSEDataGridViewTextBoxColumn.DataPropertyName = "ID_ADRESSE"
         Me.IDADRESSEDataGridViewTextBoxColumn.HeaderText = "ID_ADRESSE"
         Me.IDADRESSEDataGridViewTextBoxColumn.Name = "IDADRESSEDataGridViewTextBoxColumn"
+        Me.IDADRESSEDataGridViewTextBoxColumn.Visible = False
         '
         'IDNATUREDataGridViewTextBoxColumn
         '
         Me.IDNATUREDataGridViewTextBoxColumn.DataPropertyName = "ID_NATURE"
         Me.IDNATUREDataGridViewTextBoxColumn.HeaderText = "ID_NATURE"
         Me.IDNATUREDataGridViewTextBoxColumn.Name = "IDNATUREDataGridViewTextBoxColumn"
+        Me.IDNATUREDataGridViewTextBoxColumn.Visible = False
         '
         'RAISONSOCIALEDataGridViewTextBoxColumn
         '
@@ -190,7 +194,7 @@ Partial Class Client
         Me.DG_Client_Home.DataSource = Me.CLIENTBindingSource1
         Me.DG_Client_Home.Location = New System.Drawing.Point(12, 12)
         Me.DG_Client_Home.Name = "DG_Client_Home"
-        Me.DG_Client_Home.Size = New System.Drawing.Size(1074, 144)
+        Me.DG_Client_Home.Size = New System.Drawing.Size(879, 361)
         Me.DG_Client_Home.TabIndex = 4
         Me.DG_Client_Home.Visible = False
         '
@@ -200,18 +204,21 @@ Partial Class Client
         Me.IDCLIENTDataGridViewTextBoxColumn1.HeaderText = "ID_CLIENT"
         Me.IDCLIENTDataGridViewTextBoxColumn1.Name = "IDCLIENTDataGridViewTextBoxColumn1"
         Me.IDCLIENTDataGridViewTextBoxColumn1.ReadOnly = True
+        Me.IDCLIENTDataGridViewTextBoxColumn1.Visible = False
         '
         'IDADRESSEDataGridViewTextBoxColumn1
         '
         Me.IDADRESSEDataGridViewTextBoxColumn1.DataPropertyName = "ID_ADRESSE"
         Me.IDADRESSEDataGridViewTextBoxColumn1.HeaderText = "ID_ADRESSE"
         Me.IDADRESSEDataGridViewTextBoxColumn1.Name = "IDADRESSEDataGridViewTextBoxColumn1"
+        Me.IDADRESSEDataGridViewTextBoxColumn1.Visible = False
         '
         'IDNATUREDataGridViewTextBoxColumn1
         '
         Me.IDNATUREDataGridViewTextBoxColumn1.DataPropertyName = "ID_NATURE"
         Me.IDNATUREDataGridViewTextBoxColumn1.HeaderText = "ID_NATURE"
         Me.IDNATUREDataGridViewTextBoxColumn1.Name = "IDNATUREDataGridViewTextBoxColumn1"
+        Me.IDNATUREDataGridViewTextBoxColumn1.Visible = False
         '
         'RAISONSOCIALEDataGridViewTextBoxColumn1
         '
@@ -269,12 +276,23 @@ Partial Class Client
         '
         Me.CLIENTTableAdapter1.ClearBeforeFill = True
         '
+        'btn_Retour_Accueil
+        '
+        Me.btn_Retour_Accueil.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_Retour_Accueil.Location = New System.Drawing.Point(827, 424)
+        Me.btn_Retour_Accueil.Name = "btn_Retour_Accueil"
+        Me.btn_Retour_Accueil.Size = New System.Drawing.Size(73, 31)
+        Me.btn_Retour_Accueil.TabIndex = 5
+        Me.btn_Retour_Accueil.Text = "Retour"
+        Me.btn_Retour_Accueil.UseVisualStyleBackColor = True
+        '
         'Client
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(1130, 458)
+        Me.ClientSize = New System.Drawing.Size(903, 458)
+        Me.Controls.Add(Me.btn_Retour_Accueil)
         Me.Controls.Add(Me.DG_Client_Home)
         Me.Controls.Add(Me.btn_Retour)
         Me.Controls.Add(Me.btn_Cacher_Client)
@@ -296,6 +314,13 @@ Partial Class Client
     Friend WithEvents Active_Final_CommunDataSet As Active_Final_CommunDataSet
     Friend WithEvents CLIENTBindingSource As BindingSource
     Friend WithEvents CLIENTTableAdapter As Active_Final_CommunDataSetTableAdapters.CLIENTTableAdapter
+    Friend WithEvents btn_DataGrid As Button
+    Friend WithEvents btn_Cacher_Client As Button
+    Friend WithEvents btn_Retour As Button
+    Friend WithEvents DG_Client_Home As DataGridView
+    Friend WithEvents Active_Final_CommunDataSet2 As Active_Final_CommunDataSet2
+    Friend WithEvents CLIENTBindingSource1 As BindingSource
+    Friend WithEvents CLIENTTableAdapter1 As Active_Final_CommunDataSet2TableAdapters.CLIENTTableAdapter
     Friend WithEvents IDCLIENTDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents IDADRESSEDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents IDNATUREDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
@@ -306,13 +331,6 @@ Partial Class Client
     Friend WithEvents NOMCONTACTCLIENTDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents PRENOMCONTACTCLIENTDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
-    Friend WithEvents btn_DataGrid As Button
-    Friend WithEvents btn_Cacher_Client As Button
-    Friend WithEvents btn_Retour As Button
-    Friend WithEvents DG_Client_Home As DataGridView
-    Friend WithEvents Active_Final_CommunDataSet2 As Active_Final_CommunDataSet2
-    Friend WithEvents CLIENTBindingSource1 As BindingSource
-    Friend WithEvents CLIENTTableAdapter1 As Active_Final_CommunDataSet2TableAdapters.CLIENTTableAdapter
     Friend WithEvents IDCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
     Friend WithEvents IDADRESSEDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
     Friend WithEvents IDNATUREDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
@@ -323,4 +341,5 @@ Partial Class Client
     Friend WithEvents NOMCONTACTCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
     Friend WithEvents PRENOMCONTACTCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
     Friend WithEvents FONCTIONCONTACTCLIENTDataGridViewTextBoxColumn1 As DataGridViewTextBoxColumn
+    Friend WithEvents btn_Retour_Accueil As Button
 End Class

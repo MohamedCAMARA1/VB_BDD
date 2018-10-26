@@ -11,6 +11,14 @@ Public Class Collaborateur
 
 
     Private Sub Collaborateur_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Tableau des Profils accès avec variable "res" qui renvoi le numero du profil correspondant {"", "ADMIN", "COLLABORATEUR", "CLIENT"}
+        If (Fenetre_Principale.res = 2) Then
+            btn_Modifier.Visible = False
+            btn_Valider.Visible = False
+        End If
+
+
+
         'TODO: cette ligne de code charge les données dans la table 'Active_Final_CommunDataSet.COLLABORATEUR'. Vous pouvez la déplacer ou la supprimer selon les besoins.
         'On peut directemejnt acceder aux données de cette façon
         ''Me.COLLABORATEURTableAdapter.Fill(Me.Active_Final_CommunDataSet.COLLABORATEUR)
@@ -148,7 +156,7 @@ Public Class Collaborateur
     End Sub
 
     Private Sub cb_Affichage_Collaborateurs_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cb_Affichage_Collaborateurs.SelectedIndexChanged
-
+        
         Dim ConnexionBDD As New SqlConnection(str_Connexion)
 
         Try
@@ -426,6 +434,8 @@ Public Class Collaborateur
         ''fin
 
 
+
+
     End Sub
 
 
@@ -461,6 +471,10 @@ Public Class Collaborateur
     End Sub
 
     Private Sub btn_Valider_Click(sender As Object, e As EventArgs) Handles btn_Valider.Click
+        'verifier si les champs ont changé avant de mettre à jour 
+
+
+
         txt_Adresse1.ReadOnly = True
         txt_Adresse_Complement.ReadOnly = True
         txt_Code_Postal.ReadOnly = True
@@ -470,5 +484,47 @@ Public Class Collaborateur
         txt_Salaire.ReadOnly = True
         btn_Modifier.Show()
         btn_Valider.Hide()
+    End Sub
+
+    Private Sub txt_Nom_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt_Nom.KeyPress
+        'empecher d ecrire autre chose que des lettres 
+        If (Char.IsSymbol(e.KeyChar)) Then
+            e.Handled = True
+        End If
+        If (Char.IsPunctuation(e.KeyChar)) Then
+            e.Handled = True
+        End If
+
+        If (Char.IsNumber(e.KeyChar)) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub txt_Prenom_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt_Prenom.KeyPress
+        'empecher d ecrire autre chose que des lettres 
+        If (Char.IsSymbol(e.KeyChar)) Then
+            e.Handled = True
+        End If
+        If (Char.IsPunctuation(e.KeyChar)) Then
+            e.Handled = True
+        End If
+
+        If (Char.IsNumber(e.KeyChar)) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub txt_Code_Postal_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt_Code_Postal.KeyPress
+        'empecher d ecrire autre chose que des lettres 
+        If (Char.IsSymbol(e.KeyChar)) Then
+            e.Handled = True
+        End If
+        If (Char.IsPunctuation(e.KeyChar)) Then
+            e.Handled = True
+        End If
+
+        If (Char.IsLetter(e.KeyChar)) Then
+            e.Handled = True
+        End If
     End Sub
 End Class

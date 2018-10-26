@@ -241,7 +241,7 @@ Partial Class Collaborateur
         '
         Me.btn_Valider.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.btn_Valider.Font = New System.Drawing.Font("Modern No. 20", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_Valider.Location = New System.Drawing.Point(684, 24)
+        Me.btn_Valider.Location = New System.Drawing.Point(685, 60)
         Me.btn_Valider.Name = "btn_Valider"
         Me.btn_Valider.Size = New System.Drawing.Size(103, 29)
         Me.btn_Valider.TabIndex = 6

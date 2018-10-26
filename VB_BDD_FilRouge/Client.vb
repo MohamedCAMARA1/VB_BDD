@@ -57,4 +57,10 @@
     Private Sub DG_Client_Home_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DG_Client_Home.CellContentClick
 
     End Sub
+
+    Private Sub btn_Retour_Accueil_Click(sender As Object, e As EventArgs) Handles btn_Retour_Accueil.Click
+        Accueuil.Show()
+        Me.Close()
+
+    End Sub
 End Class

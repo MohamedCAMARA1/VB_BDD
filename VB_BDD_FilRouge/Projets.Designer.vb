@@ -99,7 +99,7 @@ Partial Class Projets
         '
         Me.lbl_Titre_Date_Previsionnelle_Fin.AutoSize = True
         Me.lbl_Titre_Date_Previsionnelle_Fin.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_Titre_Date_Previsionnelle_Fin.Location = New System.Drawing.Point(493, 149)
+        Me.lbl_Titre_Date_Previsionnelle_Fin.Location = New System.Drawing.Point(12, 180)
         Me.lbl_Titre_Date_Previsionnelle_Fin.Name = "lbl_Titre_Date_Previsionnelle_Fin"
         Me.lbl_Titre_Date_Previsionnelle_Fin.Size = New System.Drawing.Size(222, 21)
         Me.lbl_Titre_Date_Previsionnelle_Fin.TabIndex = 2
@@ -109,7 +109,7 @@ Partial Class Projets
         '
         Me.lbl_Affichage_date_Previsionnelle_Fin.AutoSize = True
         Me.lbl_Affichage_date_Previsionnelle_Fin.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_Affichage_date_Previsionnelle_Fin.Location = New System.Drawing.Point(721, 149)
+        Me.lbl_Affichage_date_Previsionnelle_Fin.Location = New System.Drawing.Point(240, 180)
         Me.lbl_Affichage_date_Previsionnelle_Fin.Name = "lbl_Affichage_date_Previsionnelle_Fin"
         Me.lbl_Affichage_date_Previsionnelle_Fin.Size = New System.Drawing.Size(0, 21)
         Me.lbl_Affichage_date_Previsionnelle_Fin.TabIndex = 2
@@ -118,7 +118,7 @@ Partial Class Projets
         '
         Me.lbl_Titre_Date_Reelle_Debut.AutoSize = True
         Me.lbl_Titre_Date_Reelle_Debut.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_Titre_Date_Reelle_Debut.Location = New System.Drawing.Point(12, 197)
+        Me.lbl_Titre_Date_Reelle_Debut.Location = New System.Drawing.Point(523, 149)
         Me.lbl_Titre_Date_Reelle_Debut.Name = "lbl_Titre_Date_Reelle_Debut"
         Me.lbl_Titre_Date_Reelle_Debut.Size = New System.Drawing.Size(170, 21)
         Me.lbl_Titre_Date_Reelle_Debut.TabIndex = 2
@@ -128,7 +128,7 @@ Partial Class Projets
         '
         Me.lbl_Affichage_date_Reelle_Debut.AutoSize = True
         Me.lbl_Affichage_date_Reelle_Debut.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_Affichage_date_Reelle_Debut.Location = New System.Drawing.Point(188, 197)
+        Me.lbl_Affichage_date_Reelle_Debut.Location = New System.Drawing.Point(699, 149)
         Me.lbl_Affichage_date_Reelle_Debut.Name = "lbl_Affichage_date_Reelle_Debut"
         Me.lbl_Affichage_date_Reelle_Debut.Size = New System.Drawing.Size(0, 21)
         Me.lbl_Affichage_date_Reelle_Debut.TabIndex = 2
@@ -137,7 +137,7 @@ Partial Class Projets
         '
         Me.lbl_Titre_Date_Reelle_Fin.AutoSize = True
         Me.lbl_Titre_Date_Reelle_Fin.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_Titre_Date_Reelle_Fin.Location = New System.Drawing.Point(493, 197)
+        Me.lbl_Titre_Date_Reelle_Fin.Location = New System.Drawing.Point(523, 180)
         Me.lbl_Titre_Date_Reelle_Fin.Name = "lbl_Titre_Date_Reelle_Fin"
         Me.lbl_Titre_Date_Reelle_Fin.Size = New System.Drawing.Size(149, 21)
         Me.lbl_Titre_Date_Reelle_Fin.TabIndex = 2
@@ -147,7 +147,7 @@ Partial Class Projets
         '
         Me.lbl_Affichage_date_Reelle_Fin.AutoSize = True
         Me.lbl_Affichage_date_Reelle_Fin.Font = New System.Drawing.Font("Modern No. 20", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_Affichage_date_Reelle_Fin.Location = New System.Drawing.Point(648, 197)
+        Me.lbl_Affichage_date_Reelle_Fin.Location = New System.Drawing.Point(678, 180)
         Me.lbl_Affichage_date_Reelle_Fin.Name = "lbl_Affichage_date_Reelle_Fin"
         Me.lbl_Affichage_date_Reelle_Fin.Size = New System.Drawing.Size(0, 21)
         Me.lbl_Affichage_date_Reelle_Fin.TabIndex = 2

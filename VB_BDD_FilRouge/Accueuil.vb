@@ -12,9 +12,16 @@
 
         lbl_Affichage_Nom.Text = Fenetre_Principale.txt_Login.Text.ToUpper
 
-        'si c'est un admin on rend l'appui du bouton ajouter vrai
+        'si c'est un admin on rend l'appui du bouton Admin et les autres Vrai vrai
         If (Fenetre_Principale.res = 1) Then
             btn_Ajout.Visible = True
+            btn_Collaborateur.Visible = True
+            btn_Projet.Visible = True
+        End If
+
+        If (Fenetre_Principale.res = 2) Then
+            btn_Collaborateur.Visible = True
+            btn_Projet.Visible = True
         End If
 
 

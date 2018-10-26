@@ -54,6 +54,7 @@ Partial Class Accueuil
         Me.btn_Collaborateur.TabIndex = 0
         Me.btn_Collaborateur.Text = "COLLABORATEUR"
         Me.btn_Collaborateur.UseVisualStyleBackColor = False
+        Me.btn_Collaborateur.Visible = False
         '
         'btn_Projet
         '
@@ -65,6 +66,7 @@ Partial Class Accueuil
         Me.btn_Projet.TabIndex = 0
         Me.btn_Projet.Text = "PROJET"
         Me.btn_Projet.UseVisualStyleBackColor = False
+        Me.btn_Projet.Visible = False
         '
         'lbl_BienVenu
         '
