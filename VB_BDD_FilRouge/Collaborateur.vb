@@ -515,7 +515,7 @@ Public Class Collaborateur
     End Sub
 
     Private Sub txt_Code_Postal_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt_Code_Postal.KeyPress
-        'empecher d ecrire autre chose que des lettres 
+        'empecher d  kkk ecrire autre chose que des lettres 
         If (Char.IsSymbol(e.KeyChar)) Then
             e.Handled = True
         End If
